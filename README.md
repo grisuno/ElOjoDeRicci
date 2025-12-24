@@ -51,6 +51,9 @@ The significant jump in AUPRC (+16.4% over GCN) suggests that the "exotic" compo
 ARGOS-E8 demonstrates that the future of financial surveillance lies in the marriage of Graph Deep Learning and Physics-Informed Geometry. By moving away from flat architectures, we can identify criminal behavior based on the "shape" of the transaction, rather than just the volume.
 
 
+[https://deepwiki.com/grisuno/ElOjoDeRicci](https://deepwiki.com/grisuno/ElOjoDeRicci)
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2Z73AV)
