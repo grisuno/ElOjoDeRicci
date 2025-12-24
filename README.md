@@ -1,6 +1,6 @@
 # RESMA: Ricci-E8 Symmetric Multi-Agent Graph Networks for Illegal Transaction Detection 
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7801e04a-257a-4cd1-9b98-09f804ee300b" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee2c833c-27e2-4788-86f6-1f96de180419" />
 
 
 **Abstract:** Identifying illicit activities in decentralized blockchain networks remains a critical challenge due to the high-dimensional noise and the adversarial nature of transaction obfuscation. We present ARGOS-E8, a novel non-Euclidean Graph Neural Network (GNN) architecture that leverages the intrinsic geometric properties of transaction graphs. By integrating a message-passing scheme based on the Gosset $E_8$ Lattice, an attention mechanism driven by Discrete Ricci Curvature, and a Parity-Time (PT) Symmetric activation function, our model captures structural anomalies that escape traditional Euclidean methods. Evaluated on the Elliptic Bitcoin dataset, ARGOS-E8 achieves a state-of-the-art AUPRC of 0.8731, demonstrating superior robustness in detecting money laundering patterns.
